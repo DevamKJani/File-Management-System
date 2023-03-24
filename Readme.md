@@ -48,3 +48,14 @@ FileManagementSystem/
 ├── truffle-config.js
 ├── package.json
 └── README.md
+
+# SCREENSHOTS:
+
+![Screenshot from 2023-03-24 09-02-19](https://user-images.githubusercontent.com/43711546/227545747-910cc871-c7fb-4b7f-a9aa-334de6da2709.png)
+![Screenshot from 2023-03-24 09-02-31](https://user-images.githubusercontent.com/43711546/227545903-cc68812b-100a-42a4-9ff5-1967cfe918bf.png)
+![Screenshot from 2023-03-24 09-03-29](https://user-images.githubusercontent.com/43711546/227546085-42c6d8c4-e477-488a-bed4-a6bfea1abcc1.png)
+![Screenshot from 2023-03-24 09-04-02](https://user-images.githubusercontent.com/43711546/227546141-cdfb71d8-0996-47b3-82ad-fbcda23cb2e0.png)
+![Screenshot from 2023-03-24 09-04-05](https://user-images.githubusercontent.com/43711546/227546171-98689f33-8253-406f-866f-eab61b05468a.png)
+![Screenshot from 2023-03-24 09-04-21](https://user-images.githubusercontent.com/43711546/227546232-28531204-787e-4955-b967-bf6dd23b8ffc.png)
+![Screenshot from 2023-03-24 09-04-29](https://user-images.githubusercontent.com/43711546/227546277-38e03b64-d67c-45d7-afeb-6cb6b222a410.png)
+![Screenshot from 2023-03-24 09-04-44](https://user-images.githubusercontent.com/43711546/227546330-028c8516-eec7-48cb-9481-688a521dbd0c.png)
