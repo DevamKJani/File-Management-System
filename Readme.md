@@ -24,8 +24,7 @@ FileManagementSystem/
 ├── smart-contracts/
 │   ├── FileManagement.sol
 │   └── migrations/
-│       ├── 1_initial_migration.js
-│       └── 2_deploy_contracts.js
+│      └── 2_deploy_contracts.js
 ├── client/
 │   ├── public/
 │   ├── src/
